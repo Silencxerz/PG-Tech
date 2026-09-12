@@ -8,14 +8,6 @@ Roblox: **Entltysix**. Discord: **entitysixxer**.
 
 Review entry point: [MenuController.client.luau](src/MenuController.client.luau). Demonstration place: [PG Tech](https://www.roblox.com/games/15601091446). The latest Studio edits must be published and reviewer access checked before submitting this demonstration.
 
-## What changed
-
-- Replaced the old menu with consistent layouts, keyboard/gamepad-selectable buttons, eased page transitions, and a reduced-motion option.
-- Replaced the loading loop with a yielding wait for actual menu readiness. A failed startup displays an error rather than hanging indefinitely.
-- Fixed UI installation: a missing optional template no longer prevents the menu from being cloned.
-- Added explicit deployment responses, a client timeout, server rate limiting, a specimen allowlist, and server-side staff rank checks.
-- Kept human and dinosaur character scripts connected to the existing game.
-- Removed nonfunctional store/roadmap placeholders from the active menu.
 
 ## Studio integration
 
