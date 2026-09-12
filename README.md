@@ -51,6 +51,4 @@ An unrelated obfuscated script beneath the workspace Edmontosaurus rig attempted
 
 The old `Workspace.RemoteServer` combat handlers still need a security review before public multiplayer release; in particular, client-supplied damage and instance references are outside the scope of the new deployment validation. Asset permissions, mobile usability, group-denial behavior, and multiplayer latency still need dedicated testing.
 
-## Credits and distribution
 
-The existing place credits VitiateOtto, Petwal, A_ngelics, and ScorchingKami. This package preserves those names and does not claim authorship of the original game or its dependencies. No redistribution license for third-party assets is granted by this repository. Add your own contribution details and choose a license for the code you have authority to license before public distribution.
